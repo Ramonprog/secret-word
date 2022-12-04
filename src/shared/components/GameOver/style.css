@@ -1,0 +1,8 @@
+.gameOver h1 {
+  text-align: center;
+}
+
+.gameOver h2 span {
+  color: #ecfa00;
+  font-size: 1.5em;
+}
